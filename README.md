@@ -22,8 +22,6 @@ You can do so using the links provided on this page. I'm happy to help with anyt
 </div>
 
 ## 🔧 Tools and technologies I use:
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="center">  
     <img src="https://skillicons.dev/icons?i=php,mysql,wordpress,python,nodejs,nextjs,electron,mongodb,html,css,js,r,c,cpp,vscode" />
-  </a>
 </p>
