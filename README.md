@@ -10,9 +10,6 @@ on your own system.
 You can do so using the links provided on this page. I'm happy to help with anything you might need relating to the repositories listed here.
 
 <div id="badges" align="center">
-  <a href="https://andyc.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCtqIDSAgLrAf1zGR_9WQjSA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
