@@ -1,3 +1,7 @@
 # 👋 Hi, I’m Andy.
 
-[https://www.codewars.com/users/acolbourne/](Codewars Profile) / [https://www.codewars.com/users/acolbourne/completed_solutions](Example Solutions)
+➡️ Trading Content: [My Blog](https://www.andrew-c.me)
+
+➡️ Dev Projects: [My Portfolio](https://www.andrew-c.dev)
+
+➡️ Codewars: [Profile](https://www.codewars.com/users/acolbourne/) / [Kata Solutions](https://www.codewars.com/users/acolbourne/completed_solutions)
