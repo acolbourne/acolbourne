@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andy.
 
-➡️ Trading Content: [My Blog](https://www.andrew-c.me)
+➡️ Trading and Personal Content: [My Blog](https://www.andrew-c.me)
 
 ➡️ Dev Projects: [My Portfolio](https://www.andrew-c.dev)
 
