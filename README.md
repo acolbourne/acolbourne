@@ -4,4 +4,4 @@
 
 ➡️ Dev Projects: [My Portfolio](https://www.andrew-c.dev)
 
-➡️ Codewars: [Profile](https://www.codewars.com/users/acolbourne/) / [Kata Solutions](https://www.codewars.com/users/acolbourne/completed_solutions)
+➡️ Codewars: [Profile](https://www.codewars.com/users/acolbourne/) / [Code Samples - Kata Solutions](https://www.codewars.com/users/acolbourne/completed_solutions)
